@@ -33,7 +33,7 @@ https://github.com/shadowsovereign14/git-basic
 
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
 
-git add - it will staged the specified files to be included in git source control as a change to be committed
+git add - it will staged the chosen changed files to be included in git source control as a change to be committed
 
 git commit - will keep track and log the changes made in every file from the remote repository
 
