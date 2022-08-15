@@ -1,2 +1,3 @@
 I am learning Git commands and its usage. Currently doing the practice exercises.
 I created a new text file named newfile.txt and now I am going to update its content.
+Updated this newfile.txt in the github repository.
